@@ -3,7 +3,7 @@
 # Dog Vision Analysis
 Dog breed identification based on the dog image fed into the system.
 
-## 🐶 End-to-end Multi-class Dog Breed Classification
+## 🐶 Multi-class Dog Breed Classification
 
 Using Tensorflow models and Google Collab GPU Engines, this project trains a Deep Learning Model on a set of 10,000+ dog images over 120 dog breeds. 
 ## Outcome:
