@@ -1,3 +1,5 @@
+###### A deep learning project leveraging the power of CNN's 
+
 # Dog Vision Analysis
 Dog breed identification based on the dog image fed into the system.
 
