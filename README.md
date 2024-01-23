@@ -9,3 +9,4 @@ Using Tensorflow models and Google Collab GPU Engines, this project trains a Dee
 ## Outcome:
 When provided with an image of a dog, the trained model can deduce the breed of the dog in the image basis varying probabilistic outcomes.
 
+###### NOTE: You can find the description of the implementation in the .ipynb file in the repository. 
